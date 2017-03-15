@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4d5ea6e7-ce33-4feb-bca7-d00657cb8514" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://ingesup-maze.azurewebsites.net/WCF/GodGame.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GodGame.xsd" MetadataType="Schema" ID="a6bed0bd-6386-4e6f-9fb4-744b6698b8da" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/GodGame.svc?xsd=xsd2" />
+    <MetadataFile FileName="GodGame.disco" MetadataType="Disco" ID="0c30d1aa-74e3-484e-99c7-fb4c5b12b25d" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/GodGame.svc?disco" />
+    <MetadataFile FileName="GodGame1.xsd" MetadataType="Schema" ID="bc195328-95c1-4a47-863c-de6f450b0836" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/GodGame.svc?xsd=xsd1" />
+    <MetadataFile FileName="GodGame2.xsd" MetadataType="Schema" ID="3db2c3e6-2e69-49e8-8aa5-0c60d5843164" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/GodGame.svc?xsd=xsd0" />
+    <MetadataFile FileName="GodGame.wsdl" MetadataType="Wsdl" ID="ac28560c-b006-4f62-a38c-7dc592313653" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/GodGame.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9e394a8a-6edc-4db4-b8b4-d52117cca775" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://ingesup-maze.azurewebsites.net/WCF/Game.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Game.xsd" MetadataType="Schema" ID="cf1f947d-dab9-45bd-9535-09daafd7d267" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/Game.svc?xsd=xsd2" />
+    <MetadataFile FileName="Game.disco" MetadataType="Disco" ID="240bc932-7409-4d87-aff5-4dea3a0ae5c4" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/Game.svc?disco" />
+    <MetadataFile FileName="Game1.xsd" MetadataType="Schema" ID="99ba458c-a53b-4f85-aacc-b9d782ec8e92" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/Game.svc?xsd=xsd1" />
+    <MetadataFile FileName="Game.wsdl" MetadataType="Wsdl" ID="bd417c39-4650-4de5-9f4e-2f4b28df41fa" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/Game.svc?wsdl" />
+    <MetadataFile FileName="Game2.xsd" MetadataType="Schema" ID="b626cc5f-d06f-4afc-aa53-f063ca6ef53d" SourceId="1" SourceUrl="http://ingesup-maze.azurewebsites.net/WCF/Game.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

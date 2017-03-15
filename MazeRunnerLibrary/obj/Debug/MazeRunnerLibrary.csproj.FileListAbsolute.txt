@@ -1,0 +1,6 @@
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\MazeRunnerLibrary\bin\Debug\MazeRunnerLibrary.dll.config
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\MazeRunnerLibrary\bin\Debug\MazeRunnerLibrary.dll
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\MazeRunnerLibrary\bin\Debug\MazeRunnerLibrary.pdb
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\MazeRunnerLibrary\obj\Debug\MazeRunnerLibrary.csprojResolveAssemblyReference.cache
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\MazeRunnerLibrary\obj\Debug\MazeRunnerLibrary.dll
+C:\Users\H\Source\Workspaces\ReportsApp\MazeRunner\MazeRunnerLibrary\obj\Debug\MazeRunnerLibrary.pdb
